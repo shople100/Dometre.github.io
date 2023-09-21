@@ -1,18 +1,18 @@
 # Site settings
 title: ArtCrypto
 SEOTitle: ArtCrypto
-header-img: img/post-bg-desk.jpg
+header-img: img/简笔头像.png
 email: Art@artcrypto.eu.org
 description: "Every failure is leading towards success."
 keyword: "BTC, 比特币, ArtCrypto, 合约网格, 网格交易策略, 波浪理论, 交易策略, 币圈"
 url: "http://dometre.eu.org"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "" # you code repository
+#github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/IMG_20230802_013047_613~2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logo.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -24,7 +24,7 @@ RSS: false
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
-bilibili_username：   ArtCrypto
+#bilibili_username：   ArtCrypto
 
 
 
@@ -79,7 +79,7 @@ kramdown:
 
 # Google Analytics
 #ga_track_id: ''            # Format: UA-xxxxxx-xx
-ga_domain:dometre.eu.org               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: dometre.eu.org               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
